@@ -7,4 +7,4 @@ Code combined from a number of scripts I wrote throughout this process... as suc
 
 Some of the data is in the script itself.
 
-Honestly the img folder just contains screenshots of the figures due to laziness in figuring out sizing, etc. :-)
+Honestly the figures folder just contains screenshots of the figures due to laziness in figuring out sizing, etc. :-)
